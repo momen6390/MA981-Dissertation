@@ -1,6 +1,6 @@
 # An approachable way to detect Covid-19 using Machine learning
 
-Author: Momen Hasan (Neo)  
+**Author:** Momen Hasan (Neo) 
 Module: MA981 Dissertation  
 Keywords: SVC, Logistic Regression, Random Forest, SHAP, Explainable AI
 
