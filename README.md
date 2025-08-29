@@ -1,5 +1,4 @@
-#An approachable way to detect Covid-19
-using Machine learning
+# An approachable way to detect Covid-19 using Machine learning
 
 Author: Momen Hasan (Neo)  
 Module: MA981 Dissertation  
